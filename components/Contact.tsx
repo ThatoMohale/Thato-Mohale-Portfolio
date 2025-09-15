@@ -12,6 +12,7 @@ const Contact: React.FC = () => {
     { name: 'GitHub', Icon: GithubIcon, href: 'https://github.com/ThatoMohale' },
     { name: 'Resume', Icon: DocumentDownloadIcon, href: '/Thato Mohale Capaciti CV.docx', download: true },
   ];
+  
 
   return (
     <section id="contact" className="py-20 md:py-28 bg-gray-50 dark:bg-black">
