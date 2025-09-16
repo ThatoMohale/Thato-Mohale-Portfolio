@@ -10,7 +10,7 @@ const Contact: React.FC = () => {
     { name: 'Email', Icon: EmailIcon, href: 'mailto:11mohale02@gmail.com' },
     { name: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/thato-mohale-44384124b' },
     { name: 'GitHub', Icon: GithubIcon, href: 'https://github.com/ThatoMohale' },
-    { name: 'Resume', Icon: DocumentDownloadIcon, href: './Thato Mohale Capaciti CV.docx', download: true },
+    { name: 'Resume', Icon: DocumentDownloadIcon, href: 'Thato_Mohale_Capaciti_CV.docx', download: true },
   ];
 
   return (
